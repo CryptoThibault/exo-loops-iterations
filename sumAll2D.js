@@ -9,6 +9,5 @@ for (i = 0; i < tab.length; i++) {
   for (j = 0; j < tab[i].length; j++) {
     result += tab[i][j]
   }
-  j = 0
 }
 console.log(result)
